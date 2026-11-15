@@ -10,10 +10,17 @@
 |---|---|---|---|
 | **DreamScripts** | Lua scripts for ESX roleplay servers | 1 free, 7 coming soon | [Catalog](https://github.com/datenhaus/dreamscripts) · [Free script](https://github.com/datenhaus/dream_notify) |
 | **Lamplit Office** | A film-style status wall for a team of AI agents | Free Lite version (MIT) | [lamplit-office-lite](https://github.com/datenhaus/lamplit-office-lite) |
+| **NIBOR** | Fear & Greed for gold, silver, Bitcoin and Ethereum, with a team of AI analysts | Live · free + PRO | [nibor.zato.org](https://nibor.zato.org) · [Showcase](https://github.com/datenhaus/nibor) |
 | **Druckfertig** | Printable templates as PDF (German) | Live | [Shop](https://payhip.com/Druckfertig) |
 | **Tools** | Small helpers in the browser, e.g. a letter generator (German) | Free | [Open](https://zato.org/wichtelbrief/) |
 | **Games** | Browser and Roblox games | In the works | – |
 | **Videos** | Short trailers without a presenter | Live | [YouTube](https://www.youtube.com/@DreamStudiosScripts) |
+
+## NIBOR – fear or greed? In one number.
+
+[![NIBOR](https://github.com/datenhaus/nibor/raw/main/previews/nibor_card.jpg)](https://github.com/datenhaus/nibor)
+
+Real market data, five AI analysts, a chief strategist and a Red Team. Every forecast is checked after 24 hours. **Not financial advice.** → [nibor.zato.org](https://nibor.zato.org)
 
 ## DreamScripts – coming soon
 
