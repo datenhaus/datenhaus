@@ -1,5 +1,9 @@
 # DreamStudios
 
+[![Download Dream Notify - free](https://img.shields.io/badge/Download-Dream_Notify_(free)-F5C400?style=for-the-badge)](https://github.com/datenhaus/dream_notify) [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge)](https://discord.gg/2cAK4XMzSe)
+
+**Free ESX notification script with full source code, no database.** Premium scripts coming soon.
+
 We are a small studio with two product lines:
 
 - **DreamScripts**: Lua scripts for ESX roleplay servers.
