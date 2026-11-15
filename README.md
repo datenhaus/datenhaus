@@ -1,77 +1,28 @@
-# DreamStudios
+![DreamStudios](https://github.com/datenhaus/dreamscripts/raw/main/previews/dreamstudios_banner.jpg)
 
-[![Download Dream Notify - free](https://img.shields.io/badge/Download-Dream_Notify_(free)-F5C400?style=for-the-badge)](https://github.com/datenhaus/dream_notify) [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge)](https://discord.gg/2cAK4XMzSe)
+[![Download Dream Notify - free](https://img.shields.io/badge/Download-Dream_Notify_%28free%29-F5C400?style=for-the-badge)](https://github.com/datenhaus/dream_notify) [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge)](https://discord.gg/2cAK4XMzSe) [![YouTube](https://img.shields.io/badge/YouTube-DreamStudios-FF0000?style=for-the-badge)](https://www.youtube.com/@DreamStudiosScripts) [![Website](https://img.shields.io/badge/Website-studio.zato.org-111111?style=for-the-badge)](https://studio.zato.org)
 
-**Free ESX notification script with full source code, no database.** Premium scripts coming soon.
+**DreamStudios is a one-person studio without a face.** One human sets the direction. A team of AI agents builds, reviews and publishes – said openly, not hidden. No invented testimonials, no invented numbers.
 
-We are a small studio with two product lines:
+## What we build
 
-- **DreamScripts**: Lua scripts for ESX roleplay servers.
-- **Lamplit Office**: a status wall that shows what a team of AI agents is doing.
+| Department | What it is | Status | Link |
+|---|---|---|---|
+| **DreamScripts** | Lua scripts for ESX roleplay servers | 1 free, 7 coming soon | [Catalog](https://github.com/datenhaus/dreamscripts) · [Free script](https://github.com/datenhaus/dream_notify) |
+| **Lamplit Office** | A film-style status wall for a team of AI agents | Free Lite version (MIT) | [lamplit-office-lite](https://github.com/datenhaus/lamplit-office-lite) |
+| **Druckfertig** | Printable templates as PDF (German) | Live | [Shop](https://payhip.com/Druckfertig) |
+| **Tools** | Small helpers in the browser, e.g. a letter generator (German) | Free | [Open](https://zato.org/wichtelbrief/) |
+| **Games** | Browser and Roblox games | In the works | – |
+| **Videos** | Short trailers without a presenter | Live | [YouTube](https://www.youtube.com/@DreamStudiosScripts) |
 
-Built with AI assistance. Videos and screenshots show sample data.
+## DreamScripts – coming soon
 
----
+| | | |
+|---|---|---|
+| [![Dream Cards](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_cards.jpg)](https://github.com/datenhaus/dreamscripts#dream-cards) | [![Dream Adminjail](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_adminjail.jpg)](https://github.com/datenhaus/dreamscripts#dream-adminjail) | [![Dream Billing](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_billing.jpg)](https://github.com/datenhaus/dreamscripts#dream-billing) |
+| [![Dream Moneywash](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_moneywash.jpg)](https://github.com/datenhaus/dreamscripts#dream-moneywash) | [![Dream Elevator](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_elevator.jpg)](https://github.com/datenhaus/dreamscripts#dream-elevator) | [![Dream Scoreboard](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_scoreboard.jpg)](https://github.com/datenhaus/dreamscripts#dream-scoreboard) |
 
-## DreamScripts
-
-### Free: Dream Notify
-
-Notifications and announcements for your roleplay server.
-
-- Toasts in four types: info, success, warning, error
-- Six screen positions, a queue, 23 built-in icons
-- `/announce` banner for all players, with permission check and cooldown on the server
-- Colours, logo letters and server name in `config.lua`
-- English and German
-- ESX Legacy supported, not required. No database. Full source code.
-
-**Download:** https://github.com/datenhaus/dream_notify
-
-### Coming soon
-
-Seven premium scripts are in the final checks. The store opens soon.
-
-| Script | What it does |
-|---|---|
-| **Dream Cards** | A trading card game: booster packs, an album, decks and duels |
-| **Dream Adminjail** | Admin jail with time presets, reason templates, a live countdown and searchable logs |
-| **Dream Billing** | Job and private invoices with late fees and a boss overview |
-| **Dream Moneywash** | Rotating wash spots with heat and reputation, for crime roleplay |
-| **Dream Elevator** | Elevators and vehicle lifts, set up with an in-game editor |
-| **Dream Fireworks** | Synced fireworks as usable items |
-| **Dream Scoreboard** | A city overview: players online, jobs on duty, next restart |
-
-Price, requirements and language will be on each product page at launch.
-Want to know when the store opens? Join the Discord below.
-
-**How we check our scripts:** automated code checks and UI previews before every release.
-If something breaks on your server, tell us in Discord and we will help.
+**Free now: [Dream Notify](https://github.com/datenhaus/dream_notify)** – notifications and announcements, full source code, no database, English and German.
 
 ---
-
-## Lamplit Office Lite
-
-A film-style status wall for a small team of AI agents.
-One HTML file and one small data file. No server, no account.
-
-- Lit desk: working. Dim desk: waiting. Red light: needs a human.
-- One room, up to six desks
-- Free, MIT license
-
-**Repository:** https://github.com/datenhaus/lamplit-office-lite
-**Live demo:** https://datenhaus.github.io/lamplit-office-lite/
-
-A larger edition with rooms, team chat and an activity log: https://zato.org/office/
-
----
-
-## Links
-
-- **Discord** (support and launch news): https://discord.gg/2cAK4XMzSe
-- **YouTube** (short trailers): https://www.youtube.com/@DreamStudiosScripts
-- **X**: https://x.com/zatoTVreal
-
----
-
-Built with AI assistance.
+Built with AI assistance. Images show UI previews with sample data. Questions? [Discord](https://discord.gg/2cAK4XMzSe) · [@zatoTVreal](https://x.com/zatoTVreal)
