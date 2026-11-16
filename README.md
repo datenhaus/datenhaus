@@ -8,10 +8,10 @@
 
 | Department | What it is | Status | Link |
 |---|---|---|---|
-| **DreamScripts** | Lua scripts for ESX roleplay servers | 1 free, 7 coming soon | [Catalog](https://github.com/datenhaus/dreamscripts) · [Free script](https://github.com/datenhaus/dream_notify) |
+| **DreamScripts** | Lua scripts for roleplay servers (ESX, some also Standalone and QBCore/Qbox beta) | 4 premium on Tebex (store in review) · 1 free · more coming soon | [Catalog](https://github.com/datenhaus/dreamscripts) · [Free script](https://github.com/datenhaus/dream_notify) |
 | **Lamplit Office** | A film-style status wall for a team of AI agents | Free Lite version (MIT) | [lamplit-office-lite](https://github.com/datenhaus/lamplit-office-lite) |
 | **NIBOR** | Fear & Greed for gold, silver, Bitcoin and Ethereum, with a team of AI analysts | Live · free + PRO | [nibor.zato.org](https://nibor.zato.org) · [Showcase](https://github.com/datenhaus/nibor) |
-| **Druckfertig** | Printable templates as PDF (German) | Live | [Shop](https://payhip.com/Druckfertig) |
+| **Druckfertig** | Printable templates as PDF | Live | [Shop](https://payhip.com/Druckfertig) · [YouTube](https://www.youtube.com/@DruckfertigPrintables) |
 | **Tools** | Small helpers in the browser, e.g. a letter generator (German) | Free | [Open](https://zato.org/wichtelbrief/) |
 | **Games** | Browser and Roblox games | In the works | – |
 | **Videos** | Short trailers without a presenter | Live | [YouTube](https://www.youtube.com/@DreamStudiosScripts) |
@@ -22,12 +22,15 @@
 
 Real market data, five AI analysts, a chief strategist and a Red Team. Every forecast is checked after 24 hours. **Not financial advice.** → [nibor.zato.org](https://nibor.zato.org)
 
-## DreamScripts – coming soon
+## DreamScripts – now on Tebex
 
 | | | |
 |---|---|---|
-| [![Dream Cards](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_cards.jpg)](https://github.com/datenhaus/dreamscripts#dream-cards) | [![Dream Adminjail](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_adminjail.jpg)](https://github.com/datenhaus/dreamscripts#dream-adminjail) | [![Dream Billing](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_billing.jpg)](https://github.com/datenhaus/dreamscripts#dream-billing) |
-| [![Dream Moneywash](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_moneywash.jpg)](https://github.com/datenhaus/dreamscripts#dream-moneywash) | [![Dream Elevator](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_elevator.jpg)](https://github.com/datenhaus/dreamscripts#dream-elevator) | [![Dream Scoreboard](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_scoreboard.jpg)](https://github.com/datenhaus/dreamscripts#dream-scoreboard) |
+| [![Dream Cards](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_cards.jpg)](https://github.com/datenhaus/dreamscripts#dream-cards) | [![Dream Billing](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_billing.jpg)](https://github.com/datenhaus/dreamscripts#dream-billing) | [![Dream Adminjail](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_adminjail.jpg)](https://github.com/datenhaus/dreamscripts#dream-adminjail) |
+
+Dream Cards €44.99 · Dream Billing €14.99 · Dream Adminjail €7.99 · Dream Scoreboard €5.99 – escrow-protected, config and locales open. The store is still in Tebex's review – store link coming with Tebex approval. → [All details in the catalog](https://github.com/datenhaus/dreamscripts)
+
+Watch: [6 scripts to level up your roleplay server](https://youtu.be/QcBy2JHxEd8) · Coming soon: Moneywash, Elevator, HUD, Report.
 
 **Free now: [Dream Notify](https://github.com/datenhaus/dream_notify)** – notifications and announcements, full source code, no database, English and German.
 
